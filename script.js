@@ -1,2 +1,2 @@
 console.log("Все очень гуд");
-alert("Ok;")
+alert("Ok");
