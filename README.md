@@ -1,2 +1,2 @@
 # WebLearn
-Alert("Test");
+Тестовый Readme
