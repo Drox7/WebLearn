@@ -1,2 +1,2 @@
-console.log("Все очень гуд");
+console.log("Все гуд");
 alert("Ok");
