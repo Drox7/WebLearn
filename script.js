@@ -1,2 +1,2 @@
 console.log("Все гуд");
-alert("Ok");
+alert("Commit");
